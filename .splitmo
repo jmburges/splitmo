@@ -1,0 +1,14 @@
+---
+splitwise_client:
+  key: 
+  secret: 
+groups:
+- ''
+smtp_config:
+  from_email: 
+  smtp_server: smtp.gmail.com
+  port: '587'
+  helo: gmail.com
+  username: 
+  password: 
+  authentication: plain
